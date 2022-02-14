@@ -1,0 +1,11 @@
+<map id="getSize" name="getSize">
+<area shape="rect" id="node3" href="$a04726.html#a80ed9aa26f2f35c8c96fbb174432f476" title="operator==" alt="" coords="145,83,220,107"/>
+<area shape="rect" id="node5" href="$a04726.html#a624f15b72c8310b627834090debbab8b" title="put" alt="" coords="163,131,202,155"/>
+<area shape="rect" id="node17" href="$a04726.html#a6cc0ef93c02b47b36602e72f7265d7e8" title="toString" alt="" coords="153,179,212,203"/>
+<area shape="rect" id="node19" href="$a05286.html#aa3c67ad2f68b154c4fe37ef12737b6f9" title="ExitGames::Lite::LitePeer\l::opJoin" alt="" coords="112,227,253,263"/>
+<area shape="rect" id="node7" href="$a05318.html#a2ba431d51ab9d3009ddf6b2776fccca3" title="ExitGames::LoadBalancing\l::Client::getLocalPlayer" alt="" coords="307,5,458,41"/>
+<area shape="rect" id="node9" href="$a05318.html#a8894fea0985914bd53cc7558547f1289" title="ExitGames::LoadBalancing\l::Client::opCreateRoom" alt="" coords="307,65,458,101"/>
+<area shape="rect" id="node11" href="$a05318.html#af643e24fb61a69db1d57a7d94c229031" title="ExitGames::LoadBalancing\l::Client::opJoinOrCreateRoom" alt="" coords="301,125,464,161"/>
+<area shape="rect" id="node13" href="$a05318.html#a0989c3b651e46f90873c05e46a86fdea" title="ExitGames::LoadBalancing\l::Client::opJoinRoom" alt="" coords="307,185,458,221"/>
+<area shape="rect" id="node15" href="$a05318.html#ae5d587503f4c9816c1cfd92c1d09d29e" title="ExitGames::LoadBalancing\l::Client::reconnectAndRejoin" alt="" coords="303,245,462,281"/>
+</map>

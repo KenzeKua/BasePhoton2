@@ -1,0 +1,20 @@
+<map id="getType" name="getType">
+<area shape="rect" id="node3" href="$a04726.html#a624f15b72c8310b627834090debbab8b" title="ExitGames::Common::\lHashtable::put" alt="" coords="135,139,262,175"/>
+<area shape="rect" id="node15" href="$a05122.html#aaee1573409785701e10283e432bc3b1a" title="ExitGames::Common::\lKeyObject::operator=" alt="" coords="135,229,262,265"/>
+<area shape="rect" id="node17" href="$a05122.html#aaf7c9b31fc4fdcf9324e23e511ca9e16" title="ExitGames::Common::\lKeyObject::getDataCopy" alt="" coords="129,289,269,325"/>
+<area shape="rect" id="node21" href="$a05122.html#ac47e7d0cf7ce97e4980838a74d87b03a" title="ExitGames::Common::\lKeyObject::getDataAddress" alt="" coords="120,349,277,385"/>
+<area shape="rect" id="node23" href="$a05146.html#a6318f30b87a882efa16d60eedd7a7d17" title="Object" alt="" coords="172,409,225,433"/>
+<area shape="rect" id="node25" href="$a05146.html#a0488a4dd87b0d4d49f21e4d3518e5452" title="~Object" alt="" coords="169,457,228,481"/>
+<area shape="rect" id="node27" href="$a05146.html#af4a4e15d90414fa8fae9738daeeb4cd0" title="operator==" alt="" coords="161,505,236,529"/>
+<area shape="rect" id="node29" href="$a05170.html#ade80c86d586e91ddbac29708a389d093" title="ExitGames::Common::\lValueObject::operator=" alt="" coords="131,554,266,590"/>
+<area shape="rect" id="node31" href="$a05170.html#aaf7c9b31fc4fdcf9324e23e511ca9e16" title="ExitGames::Common::\lValueObject::getDataCopy" alt="" coords="124,614,273,650"/>
+<area shape="rect" id="node33" href="$a05170.html#ac47e7d0cf7ce97e4980838a74d87b03a" title="ExitGames::Common::\lValueObject::getDataAddress" alt="" coords="115,674,282,710"/>
+<area shape="rect" id="node5" href="$a05318.html#a2ba431d51ab9d3009ddf6b2776fccca3" title="ExitGames::LoadBalancing\l::Client::getLocalPlayer" alt="" coords="337,5,487,41"/>
+<area shape="rect" id="node7" href="$a05318.html#a8894fea0985914bd53cc7558547f1289" title="ExitGames::LoadBalancing\l::Client::opCreateRoom" alt="" coords="337,65,487,101"/>
+<area shape="rect" id="node9" href="$a05318.html#af643e24fb61a69db1d57a7d94c229031" title="ExitGames::LoadBalancing\l::Client::opJoinOrCreateRoom" alt="" coords="331,125,493,161"/>
+<area shape="rect" id="node11" href="$a05318.html#a0989c3b651e46f90873c05e46a86fdea" title="ExitGames::LoadBalancing\l::Client::opJoinRoom" alt="" coords="337,185,487,221"/>
+<area shape="rect" id="node13" href="$a05318.html#ae5d587503f4c9816c1cfd92c1d09d29e" title="ExitGames::LoadBalancing\l::Client::reconnectAndRejoin" alt="" coords="333,245,491,281"/>
+<area shape="rect" id="node19" href="$a04714.html#ae91640fd115514d0707708c20a05a6f7" title="ExitGames::Common::\lDictionaryBase::getKeys" alt="" coords="341,305,483,341"/>
+<area shape="rect" id="node35" href="$a05418.html#a0d3580f52713c32c30358a441e220ee0" title="ExitGames::Chat::Client\l::getPrivateChannel" alt="" coords="345,643,479,679"/>
+<area shape="rect" id="node37" href="$a04714.html#ac524b160d1efa06a6790c4472f1f1f6f" title="ExitGames::Common::\lDictionaryBase::getValue" alt="" coords="340,703,484,739"/>
+</map>

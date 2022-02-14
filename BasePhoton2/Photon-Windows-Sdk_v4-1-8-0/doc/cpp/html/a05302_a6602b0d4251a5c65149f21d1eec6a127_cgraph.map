@@ -1,0 +1,11 @@
+<map id="vitalStatsToString" name="vitalStatsToString">
+<area shape="rect" id="node3" href="$a05302.html#a85101f9ea38bc642cb74ec4ae571b9fb" title="getRoundTripTime" alt="" coords="183,5,291,29"/>
+<area shape="rect" id="node5" href="$a05302.html#ace25d38b4d458e3dfb0b670ecd317682" title="getRoundTripTimeVariance" alt="" coords="161,53,313,77"/>
+<area shape="rect" id="node7" href="$a05302.html#aea076259cd369fb751e50467adea2361" title="getTimestampOfLastSocket\lReceive" alt="" coords="160,102,315,138"/>
+<area shape="rect" id="node9" href="$a05302.html#aa9fd6df74699a45931166b13b8473969" title="getTrafficStatsElapsedMs" alt="" coords="164,163,311,187"/>
+<area shape="rect" id="node11" href="$a05302.html#a98257fc026ad5d7863a5692d1de91769" title="getTrafficStatsGameLevel" alt="" coords="163,211,311,235"/>
+<area shape="rect" id="node13" href="$a05310.html#a7ad1334002a6a68791456b112d9f6fb6" title="ExitGames::Photon::\lTrafficStatsGameLevel\l::toStringVitalStats" alt="" coords="171,259,304,307"/>
+<area shape="rect" id="node15" href="$a05302.html#a5f9db711d733ea73b6bcbb49c9dca431" title="getTrafficStatsIncoming" alt="" coords="169,331,305,355"/>
+<area shape="rect" id="node17" href="$a05306.html#ab534948c0d4dc85a70d6be3c509ed4ef" title="ExitGames::Photon::\lTrafficStats::toString" alt="" coords="176,379,299,415"/>
+<area shape="rect" id="node19" href="$a05302.html#afef71b634eb9c5206e7ee625b65a34f6" title="getTrafficStatsOutgoing" alt="" coords="169,440,306,464"/>
+</map>

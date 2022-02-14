@@ -1,0 +1,6 @@
+<map id="connect" name="connect">
+<area shape="rect" id="node3" href="$a04608.html#a111d1c4fb7390f9ec99fe55699f69158" title="ExitGames::Photon::\lConnectionProtocol::\lgetIsWebSocket" alt="" coords="119,5,241,53"/>
+<area shape="rect" id="node5" href="$a05118.html#af92718beb827e6b4d78485412c2ee0b0" title="ExitGames::Common::\lJString::indexOf" alt="" coords="117,78,243,114"/>
+<area shape="rect" id="node7" href="$a05118.html#a1561bbb7a51828f31440bcd7b36eefdf" title="ExitGames::Common::\lJString::substring" alt="" coords="117,138,243,174"/>
+<area shape="rect" id="node9" href="$a05302.html#ab08cedfa555dddb5394a000a5ede9079" title="getConnectionProtocol" alt="" coords="115,199,245,223"/>
+</map>

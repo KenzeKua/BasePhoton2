@@ -1,0 +1,7 @@
+<map id="put" name="put">
+<area shape="rect" id="node3" href="$a05318.html#a2ba431d51ab9d3009ddf6b2776fccca3" title="ExitGames::LoadBalancing\l::Client::getLocalPlayer" alt="" coords="99,5,250,41"/>
+<area shape="rect" id="node5" href="$a05318.html#a8894fea0985914bd53cc7558547f1289" title="ExitGames::LoadBalancing\l::Client::opCreateRoom" alt="" coords="99,65,250,101"/>
+<area shape="rect" id="node7" href="$a05318.html#af643e24fb61a69db1d57a7d94c229031" title="ExitGames::LoadBalancing\l::Client::opJoinOrCreateRoom" alt="" coords="93,125,256,161"/>
+<area shape="rect" id="node9" href="$a05318.html#a0989c3b651e46f90873c05e46a86fdea" title="ExitGames::LoadBalancing\l::Client::opJoinRoom" alt="" coords="99,185,250,221"/>
+<area shape="rect" id="node11" href="$a05318.html#ae5d587503f4c9816c1cfd92c1d09d29e" title="ExitGames::LoadBalancing\l::Client::reconnectAndRejoin" alt="" coords="95,245,254,281"/>
+</map>

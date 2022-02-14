@@ -1,0 +1,9 @@
+<map id="~CustomTypeFactory" name="~CustomTypeFactory">
+<area shape="rect" id="node3" href="$a04686.html#ae7fc639cdbb94cd6cdfa97ff18c90210" title="copyFactory" alt="" coords="185,5,268,29"/>
+<area shape="rect" id="node5" href="$a04686.html#aa777a880577f4f0fd646cb5c2d72c7f2" title="destroyFactory" alt="" coords="179,53,275,77"/>
+<area shape="rect" id="node7" href="$a04686.html#ab9f9ee2744082517aaa56433a30a0492" title="create" alt="" coords="200,101,253,125"/>
+<area shape="rect" id="node9" href="$a04686.html#a987d79b850f5e428a2c4001fe902d1b4" title="copy" alt="" coords="203,149,250,173"/>
+<area shape="rect" id="node11" href="$a04686.html#a6694d374f5fc44396f95635a118ae8fb" title="destroy" alt="" coords="197,197,256,221"/>
+<area shape="rect" id="node13" href="$a04686.html#a90c9aa3f4f25f7c21d1da7428f5e23aa" title="sizeOf" alt="" coords="199,245,254,269"/>
+<area shape="rect" id="node15" href="$a04686.html#a6cc0ef93c02b47b36602e72f7265d7e8" title="toString" alt="" coords="197,293,256,317"/>
+</map>

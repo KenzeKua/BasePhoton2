@@ -1,0 +1,6 @@
+<map id="getValue" name="getValue">
+<area shape="rect" id="node3" href="$a05318.html#a8894fea0985914bd53cc7558547f1289" title="ExitGames::LoadBalancing\l::Client::opCreateRoom" alt="" coords="126,5,277,41"/>
+<area shape="rect" id="node5" href="$a05318.html#af643e24fb61a69db1d57a7d94c229031" title="ExitGames::LoadBalancing\l::Client::opJoinOrCreateRoom" alt="" coords="120,65,283,101"/>
+<area shape="rect" id="node7" href="$a05318.html#a0989c3b651e46f90873c05e46a86fdea" title="ExitGames::LoadBalancing\l::Client::opJoinRoom" alt="" coords="126,125,277,161"/>
+<area shape="rect" id="node9" href="$a05318.html#ae5d587503f4c9816c1cfd92c1d09d29e" title="ExitGames::LoadBalancing\l::Client::reconnectAndRejoin" alt="" coords="122,185,281,221"/>
+</map>

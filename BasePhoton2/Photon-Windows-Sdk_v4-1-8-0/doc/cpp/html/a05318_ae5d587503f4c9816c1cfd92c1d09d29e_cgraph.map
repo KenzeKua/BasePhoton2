@@ -1,0 +1,16 @@
+<map id="reconnectAndRejoin" name="reconnectAndRejoin">
+<area shape="rect" id="node3" href="$a05294.html#ab19161d519ec4fcdacc137273bd56647" title="ExitGames::Photon::\lOperationResponse::getReturnCode" alt="" coords="181,5,377,41"/>
+<area shape="rect" id="node5" href="$a05294.html#a09e59df552fcb90e981d5ce11d54e3f0" title="ExitGames::Photon::\lOperationResponse::toString" alt="" coords="198,65,359,101"/>
+<area shape="rect" id="node7" href="$a05294.html#a94c7e7b12b3fdf40b0897dd4381704d7" title="ExitGames::Photon::\lOperationResponse::getParameters" alt="" coords="181,125,376,161"/>
+<area shape="rect" id="node11" href="$a04694.html#a949b01e5bc8273a47687f6341e36b525" title="ExitGames::Common::\lDictionary::contains" alt="" coords="215,185,342,221"/>
+<area shape="rect" id="node13" href="$a05294.html#a1b1359aa195e3c813eb30e65b131bff6" title="ExitGames::Photon::\lOperationResponse::getParameter\lForCode" alt="" coords="185,245,373,293"/>
+<area shape="rect" id="node15" href="$a05294.html#a6f273828927155c588e3395de4f39c65" title="ExitGames::Photon::\lOperationResponse::getOperationCode" alt="" coords="173,318,384,354"/>
+<area shape="rect" id="node17" href="$a05294.html#a9ebf21f5d8f9a98f00287e5dfc90da98" title="ExitGames::Photon::\lOperationResponse::getDebug\lMessage" alt="" coords="193,379,364,427"/>
+<area shape="rect" id="node19" href="$a05118.html#a03e8e661b19783648407067d1b68053b" title="ExitGames::Common::\lJString::cstr" alt="" coords="215,451,342,487"/>
+<area shape="rect" id="node21" href="$a04726.html#a624f15b72c8310b627834090debbab8b" title="ExitGames::Common::\lHashtable::put" alt="" coords="215,511,342,547"/>
+<area shape="rect" id="node29" href="$a04694.html#ab22aa274af11195ccd7bacd7ebf6eb87" title="ExitGames::Common::\lDictionary::getValue" alt="" coords="215,571,342,607"/>
+<area shape="rect" id="node9" href="$a04694.html#a0d06f6d6cdd1818b59e60400be2a03ba" title="ExitGames::Common::\lDictionary::put" alt="" coords="433,125,559,161"/>
+<area shape="rect" id="node23" href="$a04726.html#aa86f8419b5ad7003a3f6e675fb9b1794" title="ExitGames::Common::\lHashtable::getSize" alt="" coords="433,451,559,487"/>
+<area shape="rect" id="node25" href="$a04726.html#a193a531398e2db9436f4d1aa61d7513c" title="ExitGames::Common::\lHashtable::getKeys" alt="" coords="433,511,559,547"/>
+<area shape="rect" id="node27" href="$a05146.html#a3d3aa1bf81cc3c179c2d10ca2bae4d0a" title="ExitGames::Common::\lObject::getType" alt="" coords="433,571,559,607"/>
+</map>
